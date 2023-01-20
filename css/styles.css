@@ -11437,4 +11437,5 @@ section.resume-section .resume-section-content {
 #messagebox {
   height: 200px;
   width: 300px;
+  word-wrap: normal;
 }
